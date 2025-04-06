@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           {/* footer */}
           <footer className="bg-[#38B491] py-12">
             <p className="container mx-auto px-4 text-center text-[#fff]">
-              NetWealth AI 🦬 Project Made For HackNovate
+              NetWealth AI 🦬 ~ Chiranjeev Singh Sandhu
             </p>
           </footer>
         </body>
